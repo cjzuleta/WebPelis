@@ -19,6 +19,6 @@ Una web de películas sencilla, hecha con HTML y CSS. Este proyecto es ideal par
 - 🌐 Demo: [Ver WebPelis](https://cjzuleta.github.io/WebPelis/)
 - 📸 Vista previa:
   
-  ![Captura WebPelis](https://cjzuleta.github.io/WebPelis/)
+  ![Captura WebPelis](https://github.com/cjzuleta/WebPelis/blob/master/img/netcriz.png?raw=true)
 
 
